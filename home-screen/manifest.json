@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://192.168.0.11:5500/home-screen/",
+  "start_url": "https://elegant-stonebraker-607062.netlify.app/home-screen/",
   "background_color": "#3367D6",
   "display": "standalone",
   "theme_color": "#3367D6"
